@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Exercise with Python<br>👯 I’m looking to collaborate on Data Science<br>🌱 I’m currently learning Python , Tableau<br>⚡ I love creating new things <br>🚀 I try to turning imagination into reality 
 
-[![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
+[![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&height=30&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyincenik) 
