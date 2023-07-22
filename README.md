@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Exercise with Python<br>👯 I’m looking to collaborate on Data Science<br>🌱 I’m currently learning Python , Tableau<br>⚡ I love creating new things <br>🚀 I try to turning imagination into reality 
+🚀 With 5+ years of experience in mathematics and statistics, the journey towards a career in data analysis began. 
+
+📊💡 Proficiency in data extraction, transformation, and visualization using Python and popular libraries like NumPy, Pandas, SciPy, Seaborn, and Matplotlib was honed. Additionally, expertise in SQL and Tableau was acquired, facilitating work with databases and creation of interactive data visualizations.
+
+ 📈💻 As a data analyst, a passion for solving complex problems and providing actionable insights through data-driven analysis is evident. 
+ 
+💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
 [![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&height=30&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
 
