@@ -26,6 +26,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+## :pushpin: Kaggle Badge
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/discussion/light)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
