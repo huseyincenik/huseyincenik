@@ -12,6 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyincenik) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/huseyincenik)
+[![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/huseyincenik)
 
 # 💻 Tech Stack:
 ![Statistics](https://img.shields.io/badge/Statistics-%2312100E.svg?style=for-the-badge) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
