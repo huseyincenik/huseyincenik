@@ -27,6 +27,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+# Projects
+
+| Project Category | Description | GitHub |
+| --- | --- | --- |
+| **Data Analysis - Python** | Explore various data analysis projects using Python, including data cleaning, visualization, and statistical analysis. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/Projects) |
+| **Data Analysis - SQL** | Analyze datasets using SQL queries, focusing on extracting valuable insights and trends. | [GitHub](https://github.com/huseyincenik/SQL---Structured-Query-Language/tree/main) |
+| **Data Analysis - Tableau** | Utilize Tableau for data visualization and exploration, creating interactive dashboards to convey meaningful information. | [GitHub](https://github.com/huseyincenik/tableau) |
+| **Data Analysis - Spreadsheets** | Perform data analysis using spreadsheet tools, demonstrating skills in data manipulation and visualization. | [GitHub](https://github.com/huseyincenik/spreadsheets) |
+| **NLP (Natural Language Processing)** | Apply NLP techniques for various projects, including sentiment analysis, text classification, and language modeling. | [GitHub](<nlp_github_link>) |
+| **Machine Learning** | Implement machine learning algorithms for various projects, showcasing classification, regression, and clustering models. | [GitHub](https://github.com/huseyincenik/machine_learning) |
+| **Deep Learning** | Explore deep learning projects, including neural networks and deep neural network architectures, for tasks such as image recognition and natural language processing. | [GitHub](https://github.com/huseyincenik/deep_learning) |
+
+
 ## :pushpin: Kaggle Badge
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/competition/light)
