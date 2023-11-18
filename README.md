@@ -31,7 +31,7 @@
 
 | Project Category | Description | GitHub |
 | --- | --- | --- |
-| **Data Analysis - Python** | Explore various data analysis projects using Python, including data cleaning, visualization, and statistical analysis. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/Projects) |
+| **Data Analysis - Python** | Explore various data analysis projects using Python, including data cleaning, visualization, and statistical analysis. | [GitHub](https://github.com/huseyincenik/data_science/tree/main) |
 | **Data Analysis - SQL** | Analyze datasets using SQL queries, focusing on extracting valuable insights and trends. | [GitHub](https://github.com/huseyincenik/SQL---Structured-Query-Language/tree/main) |
 | **Data Analysis - Tableau** | Utilize Tableau for data visualization and exploration, creating interactive dashboards to convey meaningful information. | [GitHub](https://github.com/huseyincenik/tableau) |
 | **Data Analysis - Spreadsheets** | Perform data analysis using spreadsheet tools, demonstrating skills in data manipulation and visualization. | [GitHub](https://github.com/huseyincenik/spreadsheets) |
