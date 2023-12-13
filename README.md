@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀  With 5+ years of experience in mathematics and statistics, the journey towards a career in data analysis began. 
+🚀  With 5+ years of experience in mathematics and statistics, the journey towards a career in data analysis began.
 
 📊💡 Proficiency in data extraction, transformation, and visualization using Python and popular libraries like NumPy, Pandas, SciPy, Seaborn, and Matplotlib was honed. Additionally, expertise in SQL and Tableau was acquired, facilitating work with databases and creation of interactive data visualizations.
 
@@ -10,6 +10,7 @@
 [![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&height=30&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyincenik) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/huseyincenik)
 [![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/huseyincenik)
