@@ -74,6 +74,7 @@
     <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
 </a>
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
