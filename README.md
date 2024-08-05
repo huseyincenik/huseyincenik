@@ -61,21 +61,18 @@
 </picture>
 
 ## :pushpin: Kaggle Badge
-
-<!-- <div>
-  <a href="https://www.kaggle.com/huseyincenik">
+<a href="https://www.kaggle.com/huseyincenik">
     <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
-  </a>
-  <a href="https://www.kaggle.com/huseyincenik">
+</a>
+<a href="https://www.kaggle.com/huseyincenik">
     <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
-  </a>
-  <a href="https://www.kaggle.com/huseyincenik">
+</a>
+<a href="https://www.kaggle.com/huseyincenik">
     <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
-  </a>
-  <a href="https://www.kaggle.com/huseyincenik">
+</a>
+<a href="https://www.kaggle.com/huseyincenik">
     <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
-  </a>
-</div>
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
