@@ -62,10 +62,20 @@
 
 ## :pushpin: Kaggle Badge
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/discussion/light)
+<!-- <div>
+  <a href="https://www.kaggle.com/huseyincenik">
+    <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/huseyincenik">
+    <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
+  </a>
+  <a href="https://www.kaggle.com/huseyincenik">
+    <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
+  </a>
+  <a href="https://www.kaggle.com/huseyincenik">
+    <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
+  </a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
