@@ -41,6 +41,8 @@
 | **NLP (Natural Language Processing)** | Apply NLP techniques for various projects, including sentiment analysis, text classification, and language modeling. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/nlp_natural_language_processing) |
 | **Machine Learning** | Implement machine learning algorithms for various projects, showcasing classification, regression, and clustering models. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/machine_learning) |
 | **Deep Learning** | Explore deep learning projects, including neural networks and deep neural network architectures, for tasks such as image recognition and natural language processing. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/deep_learning) |
+| **Power BI** | Explore Power BI projects, including data visualization, data modeling, and interactive dashboards. This includes challenges and sample reports for improving your Power BI skills. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/power_bi) | https://github.com/huseyincenik/power_bi |
+
 
 
 # Deployment Projects
