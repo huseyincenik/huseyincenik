@@ -89,7 +89,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=huseyincenik&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
+![](https://komarev.com/ghpvc/?username=huseyincenik&color=orange)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
