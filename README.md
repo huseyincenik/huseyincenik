@@ -1,10 +1,52 @@
 # 💫 About Me:
 
-🚀  With 10+ years of experience in mathematics and statistics, the journey towards a career in data analysis began.
+Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Currently pursuing an **M.Sc. in Statistics** to deepen my expertise in predictive modeling and advanced analytics. 
 
-📊💡 Proficiency in data extraction, transformation, and visualization using Python and popular libraries like NumPy, Pandas, SciPy, Seaborn, and Matplotlib was honed. Additionally, expertise in SQL, Tableau, PowerBI was acquired, facilitating work with databases and creation of interactive data visualizations.
+My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning.
 
- 📈💻 As a data scientist/analyst, a passion for solving complex problems and providing actionable insights through data-driven analysis is evident. 
+---
+
+### 🛠️ Technical Ecosystem
+
+- **Languages & Core:** `Python` (Pandas, NumPy, SciPy), `SQL`, `R`
+- **AI & NLP:** `LLMs`, `RAG Pipelines`, `Langchain`, `NLP (NER)`, `Model Evaluation`
+- **Data Engineering:** `Web Scraping` (Scrapy, Selenium, BeautifulSoup), `Automated Pipelines`
+- **BI & Visualization:** `Power BI`, `Tableau`, `Looker Studio`, `Matplotlib`, `Seaborn`
+- **Cloud & DevOps:** `AWS (Lambda, S3, EC2)`, `Docker`, `Streamlit`, `Gradio`
+
+---
+
+### 📈 Professional Highlights
+
+- **Data Science:** Specialized in building agentic workflows (Tagger, Extractor, Consolidator) and fine-tuning models for niche sectors like energy and clinical data.
+- **Automation:** Expert in developing end-to-end automation systems, including large-scale data extraction and automated content management via WordPress REST APIs.
+- **Academic Focus:** Currently conducting research on the comparative performance of 16+ machine learning models for advanced text classification.
+
+---
+
+### 🎓 Education & Background
+
+- 🎓 **M.Sc. in Statistics** (Ongoing) | Giresun University
+- 🎓 **B.Sc. in Mathematics Education** | Atatürk University
+- 🏫 **10+ Years of Experience** in Mathematics & Pedagogical Leadership
+
+---
+### 💼 Professional Experience
+
+- **Data Scientist | [John Snow Labs](https://www.johnsnowlabs.com/)** (Dec 2025 – Present)
+  - Focused on clinical data curation and building automated pipelines to enhance data processing efficiency by 30% through advanced NLP techniques.
+
+- **S.Data Scientist | [EnkiAI](https://enkiai.com/)** (Feb 2024 – Present)
+  - Leading NLP projects in the energy sector, implementing RAG pipelines and fine-tuning LLMs with a 20% improvement in response relevance.
+
+- **S.Data Scientist | [Westaco](https://www.westaco.com/)** (Feb 2026 – Apr 2026)
+  - Improved and optimized an existing AI chatbot system by analyzing architecture, identifying performance bottlenecks, and enhancing response accuracy.
+
+- **Freelance Data Scientist** (Mar 2023 – Present)
+  - Developed end-to-end data solutions, including customer segmentation and sentiment analysis for various clients.
+
+- **Mathematics Teacher | Secondary School** (Apr 2017 – Present)
+  - Leveraged analytical skills to optimize student learning paths, resulting in a 40% increase in academic success metrics.
  
 💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
