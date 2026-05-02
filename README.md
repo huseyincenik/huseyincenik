@@ -9,7 +9,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 ### 🛠️ Technical Ecosystem
 
 - **Languages & Core:** `Python` (Pandas, NumPy, SciPy), `SQL`, `R`
-- **AI & NLP:** `LLMs`, `RAG Pipelines`, `Langchain`, `NLP (NER)`, `Model Evaluation`
+- **AI & NLP:** `LLMs`, `RAG Pipelines`, `Agent`, `Langchain`, `NLP (NER)`, `Model Evaluation`
 - **Data Engineering:** `Web Scraping` (Scrapy, Selenium, BeautifulSoup), `Automated Pipelines`
 - **BI & Visualization:** `Power BI`, `Tableau`, `Looker Studio`, `Matplotlib`, `Seaborn`
 - **Cloud & DevOps:** `AWS (Lambda, S3, EC2)`, `Docker`, `Streamlit`, `Gradio`
