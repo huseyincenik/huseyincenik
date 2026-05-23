@@ -12,7 +12,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 - **AI & NLP:** `LLMs`, `RAG Pipelines`, `Agent`, `Langchain`, `NLP (NER)`, `Model Evaluation`
 - **Data Engineering:** `Web Scraping` (Scrapy, Selenium, BeautifulSoup), `Automated Pipelines`, `Supabase`, `MongoDB`, `PostgreSQL`
 - **BI & Visualization:** `Power BI`, `Tableau`, `Looker Studio`, `Matplotlib`, `Seaborn` 
-- **Cloud & DevOps:** `AWS (Lambda, S3, EC2)`, `Dokploy`, `Docker`, `Streamlit`, `Gradio`
+- **Cloud & DevOps:** `AWS (Lambda, S3, EC2)`, `Dokploy`, `Docker`, `Streamlit`, `Gradio` 
 
 ---
 
