@@ -2,7 +2,7 @@
 
 Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Currently pursuing an **M.Sc. in Statistics** to deepen my expertise in predictive modeling and advanced analytics. 
 
-My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning.
+My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning. 
 
 ---
 
