@@ -5,7 +5,7 @@ Highly analytical **Data Scientist** with a robust foundation in **Mathematics**
 My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning. 
 
 ---
-
+ 
 ### 🛠️ Technical Ecosystem
 
 - **Languages & Core:** `Python` (Pandas, NumPy, SciPy), `SQL`, `R`
