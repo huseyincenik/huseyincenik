@@ -33,6 +33,9 @@ My professional journey is defined by a passion for transforming complex, unstru
 ---
 ### 💼 Professional Experience
 
+- **Creator | [AI PR Reviewer](https://github.com/apps/free-pr-reviewer)** (Jul 2026 – Present)
+  - Designed and shipped a free, bring-your-own-key GitHub App that automatically reviews every pull request for bugs, security issues, and performance problems — running entirely on GitHub Actions and costing **$0 to operate**, since it calls OpenRouter's free LLM models with each user's own key instead of a metered backend. Built the full pipeline solo: GitHub App auth, a Cloudflare Workers setup dashboard with a live free-model picker, encrypted secret provisioning, and automatic model fallback for rate-limited requests. [Install it →](https://github.com/apps/free-pr-reviewer)
+
 - **Data Scientist | [John Snow Labs](https://www.johnsnowlabs.com/)** (Dec 2025 – Present)
   - Focused on clinical data curation and building automated pipelines to enhance data processing efficiency by 30% through advanced NLP techniques.
 
