@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Currently pursuing an **M.Sc. in Statistics** to deepen my expertise in predictive modeling and advanced analytics. 
+Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Holds an **M.Sc. in Statistics**, with a thesis focused on predictive modeling and advanced analytics. 
 
 My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning. 
 
@@ -20,15 +20,25 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 - **Data Science:** Specialized in building agentic workflows (Tagger, Extractor, Consolidator) and fine-tuning models for niche sectors like energy and clinical data.
 - **Automation:** Expert in developing end-to-end automation systems, including large-scale data extraction and automated content management via WordPress REST APIs.
-- **Academic Focus:** Currently conducting research on the comparative performance of 16+ machine learning models for advanced text classification.
+- **Academic Focus:** Completed M.Sc. thesis research on the comparative performance of 16+ machine learning models for advanced text classification.
 
 ---
 
 ### 🎓 Education & Background
 
-- 🎓 **M.Sc. in Statistics** (Ongoing) | Giresun University
+- 🎓 **M.Sc. in Statistics** | Giresun University
 - 🎓 **B.Sc. in Mathematics Education** | Atatürk University
 - 🏫 **10+ Years of Experience** in Mathematics & Pedagogical Leadership
+
+---
+
+### 📄 Academic Research
+
+**M.Sc. Thesis:** *Modeling of Data Obtained by Web Scraping Using Machine Learning Methods and Performance Comparison*
+
+Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional ML) on a 20K-article web-scraped maritime news dataset for multi-class business-event classification. **BART** achieved the best F1 Score (0.7955) among all models.
+
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/thesis_web_scraped_modeling)
 
 ---
 ### 💼 Professional Experience
@@ -63,6 +73,8 @@ My professional journey is defined by a passion for transforming complex, unstru
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF6600.svg?logo=huggingface&logoColor=white)](https://huggingface.co/huseyincenik)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B00.svg?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/huseyincenik)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@huseyinceniik)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Huseyin-Cenik)
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0459-6846)
 
 
 # 💻 Tech Stack:
