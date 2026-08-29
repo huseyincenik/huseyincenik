@@ -130,11 +130,11 @@
 
 ## 📌 Kaggle
 
+<!-- Click a card for that category on Kaggle. -->
 <p align="center">
-  <a href="https://www.kaggle.com/huseyincenik/code"><img alt="Kaggle — Notebooks Expert" src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/huseyincenik/datasets"><img alt="Kaggle — Datasets Expert" src="https://img.shields.io/badge/-Datasets%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://www.kaggle.com/huseyincenik/competitions" title="Kaggle Competitions — Contributor"><img src="./assets/kaggle-comp.svg" width="24%" alt="Kaggle Competitions: Contributor (2 entered)"/></a><a href="https://www.kaggle.com/huseyincenik/datasets" title="Kaggle Datasets — Expert"><img src="./assets/kaggle-data.svg" width="24%" alt="Kaggle Datasets: Expert (top 14%)"/></a><a href="https://www.kaggle.com/huseyincenik/code" title="Kaggle Notebooks — Expert"><img src="./assets/kaggle-note.svg" width="24%" alt="Kaggle Notebooks: Expert (top 2% · 1,496 / 61k)"/></a><a href="https://www.kaggle.com/huseyincenik/discussion" title="Kaggle Discussion — Contributor"><img src="./assets/kaggle-disc.svg" width="24%" alt="Kaggle Discussion: Contributor (80 posts)"/></a>
 </p>
-<p align="center"><sub>Notebooks Expert · rank <b>1,496 / 61,236</b> &nbsp;·&nbsp; 51 notebooks · 14 datasets · 80 discussion posts &nbsp;·&nbsp; <a href="https://www.kaggle.com/huseyincenik">full profile →</a></sub></p>
+<p align="center"><sub><a href="https://www.kaggle.com/huseyincenik">full Kaggle profile →</a></sub></p>
 
 ---
 
