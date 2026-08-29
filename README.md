@@ -130,12 +130,9 @@
 
 ## 📌 Kaggle
 
-<!-- Refreshed monthly by .github/workflows/kaggle-badges.yml; click a card for that category. -->
+<!-- Hand-kept cards (data in gen_kaggle.py); click a card for that category. -->
 <p align="center">
-<a href="https://www.kaggle.com/huseyincenik/competitions"><img height="128" alt="Kaggle Competitions" src="./assets/kaggle-competition.svg" /></a>
-<a href="https://www.kaggle.com/huseyincenik/datasets"><img height="128" alt="Kaggle Datasets" src="./assets/kaggle-dataset.svg" /></a>
-<a href="https://www.kaggle.com/huseyincenik/code"><img height="128" alt="Kaggle Notebooks" src="./assets/kaggle-notebook.svg" /></a>
-<a href="https://www.kaggle.com/huseyincenik/discussion"><img height="128" alt="Kaggle Discussion" src="./assets/kaggle-discussion.svg" /></a>
+<a href="https://www.kaggle.com/huseyincenik/competitions" title="Kaggle Competitions — Contributor"><img src="./assets/kg-comp.svg" width="24%" alt="Kaggle Competitions: Contributor (2 entered)"/></a><a href="https://www.kaggle.com/huseyincenik/datasets" title="Kaggle Datasets — Expert"><img src="./assets/kg-data.svg" width="24%" alt="Kaggle Datasets: Expert (rank 1,568 / 11k)"/></a><a href="https://www.kaggle.com/huseyincenik/code" title="Kaggle Notebooks — Expert"><img src="./assets/kg-note.svg" width="24%" alt="Kaggle Notebooks: Expert (rank 1,496 / 61k)"/></a><a href="https://www.kaggle.com/huseyincenik/discussion" title="Kaggle Discussion — Contributor"><img src="./assets/kg-disc.svg" width="24%" alt="Kaggle Discussion: Contributor (80 posts)"/></a>
 </p>
 <p align="center"><sub><a href="https://www.kaggle.com/huseyincenik">full Kaggle profile →</a></sub></p>
 
