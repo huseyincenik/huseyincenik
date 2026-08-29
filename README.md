@@ -110,16 +110,7 @@
 <tr><td valign="top" width="33%"><a href="https://ner-with-gliner.streamlit.app/"><img src="./assets/stack/spacy.svg" width="34" align="top" alt=""/>&nbsp;<b>NER with GLiNER</b></a><br/><sub>Extract any entity from unstructured text — a GLiNER-powered NER app.</sub><br/><sub><a href="https://ner-with-gliner.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_ner_with_gliner">Code</a></sub></td><td valign="top" width="33%"><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/"><img src="./assets/stack/langchain.svg" width="34" align="top" alt=""/>&nbsp;<b>Chat with your PDFs</b></a><br/><sub>Conversational Q&amp;A over uploaded PDFs with Gemini + OpenAI via LangChain.</sub><br/><sub><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_langchain">Code</a></sub></td><td valign="top" width="33%"><a href="https://auto-price-deployment.streamlit.app/"><img src="./assets/stack/scikitlearn.svg" width="34" align="top" alt=""/>&nbsp;<b>Auto Analytics</b></a><br/><sub>Car-price estimation with Linear / Ridge / Lasso, Random Forest and XGBoost.</sub><br/><sub><a href="https://auto-price-deployment.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/auto_analytics_advanced_estimation_and_deployment">Code</a></sub></td></tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" alt="" src="https://github-readme-stats.vercel.app/api?username=huseyincenik&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" alt="" src="https://streak-stats.demolab.com?user=huseyincenik&theme=slateorange&hide_border=true" />
+  <sub><a href="https://github.com/huseyincenik">@huseyincenik</a> · <a href="https://linkedin.com/in/huseyincenik">LinkedIn</a> · <a href="https://public.tableau.com/app/profile/huseyincenik">Tableau</a> · <a href="https://www.kaggle.com/huseyincenik">Kaggle</a></sub><br/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=huseyincenik&color=orange&label=Profile%20views" />
 </p>
-<p align="center">
-  <img height="150" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=huseyincenik&color=orange&label=Profile%20views" /></p>
