@@ -6,7 +6,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
-![Focus areas](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=C80000&background=00000000&center=true&vCenter=true&width=560&height=40&lines=End-to-end+NLP+%26+LLM+systems;RAG+pipelines+%C2%B7+fine-tuning+%C2%B7+evaluation;Large-scale+web+scraping+%26+automation;2024+Tableau+Ambassador)
+<p align="center"><img src="./assets/hero-lines.svg" width="640" alt="Focus areas — end-to-end NLP &amp; LLM systems · RAG · fine-tuning · evaluation · large-scale web scraping &amp; automation · agentic workflows in production · dashboards that drive decisions · 🏆 2024 Tableau Ambassador"/></p>
 
 ## 🌐 Socials:
 
