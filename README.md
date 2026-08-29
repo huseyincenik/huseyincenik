@@ -131,11 +131,10 @@
 ## 📌 Kaggle
 
 <p align="center">
-  <a href="https://www.kaggle.com/huseyincenik/competitions"><img alt="Kaggle Competitions" src="./kaggle-plates/Competitions/white.svg" /></a>
-  <a href="https://www.kaggle.com/huseyincenik/datasets"><img alt="Kaggle Datasets" src="./kaggle-plates/Datasets/white.svg" /></a>
-  <a href="https://www.kaggle.com/huseyincenik/code"><img alt="Kaggle Notebooks" src="./kaggle-plates/Notebooks/white.svg" /></a>
-  <a href="https://www.kaggle.com/huseyincenik/discussion"><img alt="Kaggle Discussions" src="./kaggle-plates/Discussions/white.svg" /></a>
+  <a href="https://www.kaggle.com/huseyincenik/code"><img alt="Kaggle — Notebooks Expert" src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/huseyincenik/datasets"><img alt="Kaggle — Datasets Expert" src="https://img.shields.io/badge/-Datasets%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
+<p align="center"><sub>Notebooks Expert · rank <b>1,496 / 61,236</b> &nbsp;·&nbsp; 51 notebooks · 14 datasets · 80 discussion posts &nbsp;·&nbsp; <a href="https://www.kaggle.com/huseyincenik">full profile →</a></sub></p>
 
 ---
 
