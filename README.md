@@ -95,15 +95,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=huseyincenik&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huseyincenik&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📂 Projects
 
 <table>
@@ -119,40 +110,16 @@
 <tr><td valign="top" width="33%"><a href="https://ner-with-gliner.streamlit.app/"><img src="./assets/stack/spacy.svg" width="34" align="top" alt=""/>&nbsp;<b>NER with GLiNER</b></a><br/><sub>Extract any entity from unstructured text — a GLiNER-powered NER app.</sub><br/><sub><a href="https://ner-with-gliner.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_ner_with_gliner">Code</a></sub></td><td valign="top" width="33%"><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/"><img src="./assets/stack/langchain.svg" width="34" align="top" alt=""/>&nbsp;<b>Chat with your PDFs</b></a><br/><sub>Conversational Q&amp;A over uploaded PDFs with Gemini + OpenAI via LangChain.</sub><br/><sub><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_langchain">Code</a></sub></td><td valign="top" width="33%"><a href="https://auto-price-deployment.streamlit.app/"><img src="./assets/stack/scikitlearn.svg" width="34" align="top" alt=""/>&nbsp;<b>Auto Analytics</b></a><br/><sub>Car-price estimation with Linear / Ridge / Lasso, Random Forest and XGBoost.</sub><br/><sub><a href="https://auto-price-deployment.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/auto_analytics_advanced_estimation_and_deployment">Code</a></sub></td></tr>
 </table>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 📌 Kaggle
-<a href="https://www.kaggle.com/huseyincenik/competitions">
-    <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
-</a>
-<a href="https://www.kaggle.com/huseyincenik/datasets">
-    <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
-</a>
-<a href="https://www.kaggle.com/huseyincenik/code">
-    <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
-</a>
-<a href="https://www.kaggle.com/huseyincenik/discussion">
-    <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
-</a>
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=huseyincenik&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
-![](https://komarev.com/ghpvc/?username=huseyincenik&color=orange)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" alt="" src="https://github-readme-stats.vercel.app/api?username=huseyincenik&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" alt="" src="https://streak-stats.demolab.com?user=huseyincenik&theme=slateorange&hide_border=true" />
+</p>
+<p align="center">
+  <img height="150" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=huseyincenik&color=orange&label=Profile%20views" /></p>
