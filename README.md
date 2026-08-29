@@ -1,14 +1,10 @@
-# 💫 About Me:
+## 💫 About Me
 
-Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Holds an **M.Sc. in Statistics** with a thesis that benchmarked **16 machine-learning models** for multi-class text classification on a 20K-article web-scraped dataset (best: **BART**, F1 **0.7955**). 
-
-My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning. 
-
-💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
+**Data Scientist** with a strong **Mathematics & Statistics** foundation and 10+ years in education. I turn complex, unstructured data into decisions — **NLP & LLM systems**, **RAG pipelines**, large-scale **web scraping & automation**, and dashboards teams actually use. Let's analyze the data together 🚀
 
 <p align="center"><img src="./assets/hero-lines.svg" width="640" alt="Focus areas — end-to-end NLP &amp; LLM systems · RAG · fine-tuning · evaluation · large-scale web scraping &amp; automation · agentic workflows in production · dashboards that drive decisions · 🏆 2024 Tableau Ambassador"/></p>
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyincenik) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/huseyincenik)
@@ -21,7 +17,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 ---
  
-### 🛠️ Technical Ecosystem
+## 🛠️ Technical Ecosystem
 
 <!-- Every icon is a link (click -> the tool's site); hover for a one-line description. -->
 
@@ -33,15 +29,15 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 ---
 
-### 📈 Professional Highlights
+## 📈 Professional Highlights
 
-- **Data Science:** Specialized in building agentic workflows (Tagger, Extractor, Consolidator) and fine-tuning models for niche sectors like energy and clinical data.
-- **Automation:** Expert in developing end-to-end automation systems, including large-scale data extraction and automated content management via WordPress REST APIs.
-- **Academic Focus:** Completed M.Sc. thesis research on the comparative performance of 16+ machine learning models for advanced text classification.
+- **Data Science:** Build agentic workflows (Tagger, Extractor, Consolidator) and fine-tune models for niche sectors like energy and clinical data.
+- **Automation:** Ship end-to-end automation systems — large-scale data extraction, trade-data pipelines and automated content management via REST APIs.
+- **Recognition:** 2024 **Tableau Ambassador**; contributed to The Globby's 🏆 **2nd place at the WTO Small Business Champions 2026**.
 
 ---
 
-### 🗓️ Career Timeline
+## 🗓️ Career Timeline
 
 <!-- Every node is a clickable link — click to open the company/site, hover for role + dates. -->
 <p align="center">
@@ -60,7 +56,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 </sub></p>
 
 ---
-### 💼 Professional Experience
+## 💼 Professional Experience
 
 - **Creator | [AI PR Reviewer](https://github.com/apps/free-pr-reviewer)** · GitHub App (Jul 2026 – Present)
   - Designed and shipped a free, bring-your-own-key GitHub App that automatically reviews every pull request for bugs, security issues, and performance problems — running entirely on GitHub Actions and costing **$0 to operate**, since it calls OpenRouter's free LLM models with each user's own key instead of a metered backend. Built the full pipeline solo: GitHub App auth, a Cloudflare Workers setup dashboard with a live free-model picker, encrypted secret provisioning, and automatic model fallback for rate-limited requests. [Install it →](https://github.com/apps/free-pr-reviewer)
@@ -85,30 +81,21 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 ---
 
-### 🎓 Education & Background
+## 🎓 Education
 
 <!-- Click a node to open the university / profile; hover for the degree. -->
 <p align="center">
 <a href="https://www.atauni.edu.tr/" title="Atatürk University — B.Sc. in Mathematics Education (2012–2017)"><img src="./assets/timeline/edu-01-atauni.svg" width="31%" alt="Atatürk University — B.Sc. in Mathematics Education (2012–2017)"/></a><a href="https://www.linkedin.com/in/huseyincenik" title="Mathematics teaching &amp; pedagogical leadership (since 2012)"><img src="./assets/timeline/edu-02-teach.svg" width="31%" alt="Mathematics teaching &amp; pedagogical leadership (since 2012)"/></a><a href="https://www.giresun.edu.tr/" title="Giresun University — M.Sc. in Statistics (2023–2026)"><img src="./assets/timeline/edu-03-giresun.svg" width="31%" alt="Giresun University — M.Sc. in Statistics (2023–2026)"/></a>
 </p>
 
-- 🎓 **M.Sc. in Statistics** — [Giresun University](https://www.giresun.edu.tr/) (2023 – 2026) · thesis: 16-model ML benchmark on 20K web-scraped articles, **BART F1 0.7955**
+- 🎓 **M.Sc. in Statistics** — [Giresun University](https://www.giresun.edu.tr/) (2023 – 2026)
+  <br/>Thesis — *Modeling of Data Obtained by Web Scraping Using ML Methods and Performance Comparison*: benchmarked **16 models** (Transformers, RNNs, classical ML) on a 20K-article web-scraped dataset; **BART** scored best (F1 **0.7955**). &nbsp;[Repo →](https://github.com/huseyincenik/thesis_web_scraped_modeling)
 - 🎓 **B.Sc. in Mathematics Education** — [Atatürk University](https://www.atauni.edu.tr/), Erzurum (2012 – 2017)
 - 🏫 **14 years** teaching Mathematics & pedagogical leadership (since 2012)
 
 ---
 
-### 📄 Academic Research
-
-**M.Sc. Thesis:** *Modeling of Data Obtained by Web Scraping Using Machine Learning Methods and Performance Comparison*
-
-Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional ML) on a 20K-article web-scraped maritime news dataset for multi-class business-event classification. **BART** achieved the best F1 Score (0.7955) among all models.
-
-[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/thesis_web_scraped_modeling)
-
----
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=huseyincenik&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huseyincenik&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -117,7 +104,7 @@ Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-# 📂 Projects
+## 📂 Projects
 
 <table>
 <tr><td valign="top" width="33%"><a href="https://github.com/huseyincenik/data_science/tree/main"><img src="./assets/stack/python.svg" width="34" align="top" alt=""/>&nbsp;<b>Data Analysis · Python</b></a><br/><sub>Cleaning, EDA, visualisation and statistical analysis in Python.</sub></td><td valign="top" width="33%"><a href="https://github.com/huseyincenik/SQL---Structured-Query-Language/tree/main"><img src="./assets/stack/sql.svg" width="34" align="top" alt=""/>&nbsp;<b>Data Analysis · SQL</b></a><br/><sub>Extracting insights and trends straight from SQL queries.</sub></td><td valign="top" width="33%"><a href="https://github.com/huseyincenik/power_bi"><img src="./assets/stack/powerbi.svg" width="34" align="top" alt=""/>&nbsp;<b>Power BI</b></a><br/><sub>Data modelling, interactive dashboards and report challenges.</sub></td></tr>
@@ -126,7 +113,7 @@ Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional 
 <tr><td valign="top" width="33%"><a href="https://github.com/huseyincenik/generative_ai/tree/main"><img src="./assets/stack/openai.svg" width="34" align="top" alt=""/>&nbsp;<b>Generative AI</b></a><br/><sub>Text generation, image synthesis and applied GenAI experiments.</sub></td><td valign="top" width="33%"><a href="https://github.com/huseyincenik/react_native"><img src="./assets/stack/react.svg" width="34" align="top" alt=""/>&nbsp;<b>React Native</b></a><br/><sub>Cross-platform mobile apps: components, navigation, state.</sub></td></tr>
 </table>
 
-# 🚀 Live Apps
+## 🚀 Live Apps
 
 <table>
 <tr><td valign="top" width="33%"><a href="https://ner-with-gliner.streamlit.app/"><img src="./assets/stack/spacy.svg" width="34" align="top" alt=""/>&nbsp;<b>NER with GLiNER</b></a><br/><sub>Extract any entity from unstructured text — a GLiNER-powered NER app.</sub><br/><sub><a href="https://ner-with-gliner.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_ner_with_gliner">Code</a></sub></td><td valign="top" width="33%"><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/"><img src="./assets/stack/langchain.svg" width="34" align="top" alt=""/>&nbsp;<b>Chat with your PDFs</b></a><br/><sub>Conversational Q&amp;A over uploaded PDFs with Gemini + OpenAI via LangChain.</sub><br/><sub><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_langchain">Code</a></sub></td><td valign="top" width="33%"><a href="https://auto-price-deployment.streamlit.app/"><img src="./assets/stack/scikitlearn.svg" width="34" align="top" alt=""/>&nbsp;<b>Auto Analytics</b></a><br/><sub>Car-price estimation with Linear / Ridge / Lasso, Random Forest and XGBoost.</sub><br/><sub><a href="https://auto-price-deployment.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/auto_analytics_advanced_estimation_and_deployment">Code</a></sub></td></tr>
@@ -142,7 +129,7 @@ Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>
 
-## :pushpin: Kaggle Badge
+## 📌 Kaggle
 <a href="https://www.kaggle.com/huseyincenik/competitions">
     <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
 </a>
@@ -157,10 +144,10 @@ Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional 
 </a>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=huseyincenik&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
