@@ -6,7 +6,7 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
-[![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&height=30&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
+![Focus areas](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=C80000&background=00000000&center=true&vCenter=true&width=560&height=40&lines=End-to-end+NLP+%26+LLM+systems;RAG+pipelines+%C2%B7+fine-tuning+%C2%B7+evaluation;Large-scale+web+scraping+%26+automation;2024+Tableau+Ambassador)
 
 ## 🌐 Socials:
 
