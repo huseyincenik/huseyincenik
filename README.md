@@ -115,23 +115,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=huseyincenik&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=huseyincenik&theme=slateorange&hide_border=true" />
+  <img width="88%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseyincenik&theme=transparent" />
 </p>
 <p align="center">
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="185" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huseyincenik&theme=transparent" />
+  &nbsp;
+  <img height="185" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huseyincenik&theme=transparent" />
 </p>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img alt="Top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=huseyincenik&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
+  <img height="185" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huseyincenik&theme=transparent" />
+  &nbsp;
+  <img height="185" alt="Most productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huseyincenik&theme=transparent&utcOffset=3" />
 </p>
 
 ## 📌 Kaggle
