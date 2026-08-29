@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Holds an **M.Sc. in Statistics**, with a thesis focused on predictive modeling and advanced analytics. 
+Highly analytical **Data Scientist** with a robust foundation in **Mathematics** and **Statistics**, backed by over 10 years of experience in education. Holds an **M.Sc. in Statistics** with a thesis that benchmarked **16 machine-learning models** for multi-class text classification on a 20K-article web-scraped dataset (best: **BART**, F1 **0.7955**). 
 
 My professional journey is defined by a passion for transforming complex, unstructured data into actionable business intelligence through automation and machine learning. 
 
@@ -24,11 +24,60 @@ My professional journey is defined by a passion for transforming complex, unstru
 
 ---
 
+### 🗓️ Career Timeline
+
+<!-- Every node is a clickable link — click to open the company/site, hover for role + dates. -->
+<p align="center">
+<a href="https://www.linkedin.com/in/huseyincenik" title="Math Teacher — Private lessons (Sep 2012 – Present)"><img src="./assets/timeline/01-teacher.svg" width="14.1%" alt="Math Teacher — Private lessons (Sep 2012 – Present)"/></a><a href="https://www.upwork.com/" title="Upwork — Data Scientist / Data Analyst (Mar 2023 – Present)"><img src="./assets/timeline/02-upwork.svg" width="14.1%" alt="Upwork — Data Scientist / Data Analyst (Mar 2023 – Present)"/></a><a href="https://enkiai.com/" title="EnkiAI — Data Scientist → Senior Data Scientist (Feb 2024 – Present)"><img src="./assets/timeline/03-enki.svg" width="14.1%" alt="EnkiAI — Data Scientist → Senior Data Scientist (Feb 2024 – Present)"/></a><a href="https://theglobby.com/en/" title="The Globby — Senior Data Scientist (Feb 2025 – Present)"><img src="./assets/timeline/04-globby.svg" width="14.1%" alt="The Globby — Senior Data Scientist (Feb 2025 – Present)"/></a><a href="https://www.johnsnowlabs.com/" title="John Snow Labs — Data Scientist (Dec 2025 – Present)"><img src="./assets/timeline/05-jsl.svg" width="14.1%" alt="John Snow Labs — Data Scientist (Dec 2025 – Present)"/></a><a href="https://www.westaco.com/" title="Westaco — Senior Data Scientist (Feb 2026 – Apr 2026)"><img src="./assets/timeline/06-westaco.svg" width="14.1%" alt="Westaco — Senior Data Scientist (Feb 2026 – Apr 2026)"/></a><a href="https://github.com/apps/free-pr-reviewer" title="AI PR Reviewer — Creator (Jul 2026 – Present)"><img src="./assets/timeline/07-prr.svg" width="14.1%" alt="AI PR Reviewer — Creator (Jul 2026 – Present)"/></a>
+</p>
+
+<p align="center"><sub>
+  <b>Open ↴</b>&nbsp;
+  <a href="https://www.linkedin.com/in/huseyincenik">Math Teacher</a> ·
+  <a href="https://www.upwork.com/">Upwork</a> ·
+  <a href="https://enkiai.com/">EnkiAI</a> ·
+  <a href="https://theglobby.com/en/">The Globby</a> ·
+  <a href="https://www.johnsnowlabs.com/">John Snow Labs</a> ·
+  <a href="https://www.westaco.com/">Westaco</a> ·
+  <a href="https://github.com/apps/free-pr-reviewer">AI PR Reviewer</a>
+</sub></p>
+
+---
+### 💼 Professional Experience
+
+- **Creator | [AI PR Reviewer](https://github.com/apps/free-pr-reviewer)** · GitHub App (Jul 2026 – Present)
+  - Designed and shipped a free, bring-your-own-key GitHub App that automatically reviews every pull request for bugs, security issues, and performance problems — running entirely on GitHub Actions and costing **$0 to operate**, since it calls OpenRouter's free LLM models with each user's own key instead of a metered backend. Built the full pipeline solo: GitHub App auth, a Cloudflare Workers setup dashboard with a live free-model picker, encrypted secret provisioning, and automatic model fallback for rate-limited requests. [Install it →](https://github.com/apps/free-pr-reviewer)
+
+- **Senior Data Scientist | [Westaco](https://www.westaco.com/)** · Freelance · Romania · Remote (Feb 2026 – Apr 2026)
+  - AI-powered chatbot development and LLM integrations. Optimized the end-to-end chatbot architecture (**+15%** response accuracy, **−20%** latency), integrated multi-provider LLM APIs (OpenAI, Anthropic) with fallback mechanisms (**99.5%** uptime), built async services with FastAPI / Flask, and implemented RAG pipelines on ChromaDB / Pinecone (**+22%** factual retrieval accuracy) with structured output guardrails.
+
+- **Data Scientist | [John Snow Labs](https://www.johnsnowlabs.com/)** · Contract · Remote (Dec 2025 – Present)
+  - Led end-to-end data curation for healthcare and clinical text datasets (**+25%** pipeline efficiency); cleaned, normalized and annotated large-scale medical text (**+30%** consistency); labeled clinical entities with domain-specific frameworks (**+20%** NER, classification and information-extraction accuracy); ran QA reviews, validation checks and feedback loops (**+25%** annotation accuracy and compliance) for NLP and LLM model development.
+
+- **Senior Data Scientist | [The Globby](https://theglobby.com/en/)** · Full-time · Remote (Feb 2025 – Present)
+  - Architected scalable web-scraping bots and automated pipelines in Python (**−75%** manual reporting time); integrated UN Comtrade and Trademap APIs into Supabase across **240+ countries**; engineered LLM-driven B2B buyer targeting and automated smart email generation — contributing to the platform's **2nd place at the WTO Small Business Champions 2026**. Managed Hetzner (Linux/Docker) infrastructure at **99.9%** uptime.
+
+- **Data Scientist → Senior Data Scientist | [EnkiAI](https://enkiai.com/)** · Full-time · Remote (Feb 2024 – Present)
+  - Own NLP and LLM-based systems end-to-end for the energy sector, from experimentation to production. Design, optimize and scale Retrieval-Augmented Generation (RAG) pipelines (**+20%** response relevance), define evaluation and monitoring frameworks for fine-tuned models, lead data-labeling and QA, and mentor junior data scientists. Promoted to Senior Data Scientist in Sep 2025.
+
+- **Data Scientist / Data Analyst | [Upwork](https://www.upwork.com/)** · Freelance · Remote (Mar 2023 – Present)
+  - End-to-end ML for clients — Customer Segmentation, Churn Prediction, Sentiment Analysis, RFM and Cohort analysis — using Logistic / Linear Regression, Random Forest, Gradient Boosting, clustering and deep learning (TensorFlow, Keras). Model deployment via Streamlit, AWS SageMaker / EC2 / Lambda / boto3; large-scale web scraping (Scrapy, Selenium, BeautifulSoup); Power BI dashboards; **1M+** records handled with Supabase and external APIs.
+
+- **Mathematics Teacher | Private Lessons** · Part-time · Erzurum / Giresun · Hybrid (Sep 2012 – Present)
+  - 14 years designing personalized, data-informed lesson plans from student-performance analysis — **+40%** overall success, **+28%** course success, and a **−25%** mathematics failure rate.
+
+---
+
 ### 🎓 Education & Background
 
-- 🎓 **M.Sc. in Statistics** | Giresun University
-- 🎓 **B.Sc. in Mathematics Education** | Atatürk University
-- 🏫 **10+ Years of Experience** in Mathematics & Pedagogical Leadership
+<!-- Click a node to open the university / profile; hover for the degree. -->
+<p align="center">
+<a href="https://www.atauni.edu.tr/" title="Atatürk University — B.Sc. in Mathematics Education (2012–2017)"><img src="./assets/timeline/edu-01-atauni.svg" width="31%" alt="Atatürk University — B.Sc. in Mathematics Education (2012–2017)"/></a><a href="https://www.linkedin.com/in/huseyincenik" title="Mathematics teaching &amp; pedagogical leadership (since 2012)"><img src="./assets/timeline/edu-02-teach.svg" width="31%" alt="Mathematics teaching &amp; pedagogical leadership (since 2012)"/></a><a href="https://www.giresun.edu.tr/" title="Giresun University — M.Sc. in Statistics (2023–2026)"><img src="./assets/timeline/edu-03-giresun.svg" width="31%" alt="Giresun University — M.Sc. in Statistics (2023–2026)"/></a>
+</p>
+
+- 🎓 **M.Sc. in Statistics** — [Giresun University](https://www.giresun.edu.tr/) (2023 – 2026) · thesis: 16-model ML benchmark on 20K web-scraped articles, **BART F1 0.7955**
+- 🎓 **B.Sc. in Mathematics Education** — [Atatürk University](https://www.atauni.edu.tr/), Erzurum (2012 – 2017)
+- 🏫 **14 years** teaching Mathematics & pedagogical leadership (since 2012)
 
 ---
 
@@ -41,26 +90,7 @@ Benchmarked **16 machine learning models** (Transformers, RNNs, and traditional 
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/thesis_web_scraped_modeling)
 
 ---
-### 💼 Professional Experience
 
-- **Creator | [AI PR Reviewer](https://github.com/apps/free-pr-reviewer)** (Jul 2026 – Present)
-  - Designed and shipped a free, bring-your-own-key GitHub App that automatically reviews every pull request for bugs, security issues, and performance problems — running entirely on GitHub Actions and costing **$0 to operate**, since it calls OpenRouter's free LLM models with each user's own key instead of a metered backend. Built the full pipeline solo: GitHub App auth, a Cloudflare Workers setup dashboard with a live free-model picker, encrypted secret provisioning, and automatic model fallback for rate-limited requests. [Install it →](https://github.com/apps/free-pr-reviewer)
-
-- **Data Scientist | [John Snow Labs](https://www.johnsnowlabs.com/)** (Dec 2025 – Present)
-  - Focused on clinical data curation and building automated pipelines to enhance data processing efficiency by 30% through advanced NLP techniques.
-
-- **S.Data Scientist | [EnkiAI](https://enkiai.com/)** (Feb 2024 – Present)
-  - Leading NLP projects in the energy sector, implementing RAG pipelines and fine-tuning LLMs with a 20% improvement in response relevance.
-
-- **S.Data Scientist | [Westaco](https://www.westaco.com/)** (Feb 2026 – Apr 2026)
-  - Improved and optimized an existing AI chatbot system by analyzing architecture, identifying performance bottlenecks, and enhancing response accuracy.
-
-- **Freelance Data Scientist** (Mar 2023 – Present)
-  - Developed end-to-end data solutions, including customer segmentation and sentiment analysis for various clients.
-
-- **Mathematics Teacher | Secondary School** (Apr 2017 – Present)
-  - Leveraged analytical skills to optimize student learning paths, resulting in a 40% increase in academic success metrics.
- 
 💪💡 Strong analytical mindset, attention to detail, and effective communication skills add value to any data-focused team. Let's analyze the data together! 🚀🔍
 
 [![hi_there](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C800006C&background=4C0F0F00&center=true&vCenter=true&width=435&height=30&lines=Hi+%2C+there+!+;Unlocking+the+power+of+data+!)](https://git.io/typing-svg)
