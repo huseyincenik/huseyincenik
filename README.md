@@ -130,12 +130,12 @@
 
 ## 📌 Kaggle
 
-<!-- Live from road-to-kaggle-grandmaster; click a card for that category on Kaggle. -->
+<!-- Refreshed monthly by .github/workflows/kaggle-badges.yml; click a card for that category. -->
 <p align="center">
-<a href="https://www.kaggle.com/huseyincenik/competitions"><img height="128" alt="Kaggle Competitions" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/competition/light" /></a>
-<a href="https://www.kaggle.com/huseyincenik/datasets"><img height="128" alt="Kaggle Datasets" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/dataset/light" /></a>
-<a href="https://www.kaggle.com/huseyincenik/code"><img height="128" alt="Kaggle Notebooks" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/notebook/light" /></a>
-<a href="https://www.kaggle.com/huseyincenik/discussion"><img height="128" alt="Kaggle Discussion" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/discussion/light" /></a>
+<a href="https://www.kaggle.com/huseyincenik/competitions"><img height="128" alt="Kaggle Competitions" src="./assets/kaggle-competition.svg" /></a>
+<a href="https://www.kaggle.com/huseyincenik/datasets"><img height="128" alt="Kaggle Datasets" src="./assets/kaggle-dataset.svg" /></a>
+<a href="https://www.kaggle.com/huseyincenik/code"><img height="128" alt="Kaggle Notebooks" src="./assets/kaggle-notebook.svg" /></a>
+<a href="https://www.kaggle.com/huseyincenik/discussion"><img height="128" alt="Kaggle Discussion" src="./assets/kaggle-discussion.svg" /></a>
 </p>
 <p align="center"><sub><a href="https://www.kaggle.com/huseyincenik">full Kaggle profile →</a></sub></p>
 
