@@ -130,9 +130,12 @@
 
 ## 📌 Kaggle
 
-<!-- Click a card for that category on Kaggle. -->
+<!-- Live from road-to-kaggle-grandmaster; click a card for that category on Kaggle. -->
 <p align="center">
-<a href="https://www.kaggle.com/huseyincenik/competitions" title="Kaggle Competitions — Contributor"><img src="./assets/kaggle-comp.svg" width="24%" alt="Kaggle Competitions: Contributor (2 entered)"/></a><a href="https://www.kaggle.com/huseyincenik/datasets" title="Kaggle Datasets — Expert"><img src="./assets/kaggle-data.svg" width="24%" alt="Kaggle Datasets: Expert (top 14%)"/></a><a href="https://www.kaggle.com/huseyincenik/code" title="Kaggle Notebooks — Expert"><img src="./assets/kaggle-note.svg" width="24%" alt="Kaggle Notebooks: Expert (top 2% · 1,496 / 61k)"/></a><a href="https://www.kaggle.com/huseyincenik/discussion" title="Kaggle Discussion — Contributor"><img src="./assets/kaggle-disc.svg" width="24%" alt="Kaggle Discussion: Contributor (80 posts)"/></a>
+<a href="https://www.kaggle.com/huseyincenik/competitions"><img height="128" alt="Kaggle Competitions" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/competition/light" /></a>
+<a href="https://www.kaggle.com/huseyincenik/datasets"><img height="128" alt="Kaggle Datasets" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/dataset/light" /></a>
+<a href="https://www.kaggle.com/huseyincenik/code"><img height="128" alt="Kaggle Notebooks" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/notebook/light" /></a>
+<a href="https://www.kaggle.com/huseyincenik/discussion"><img height="128" alt="Kaggle Discussion" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/huseyincenik/discussion/light" /></a>
 </p>
 <p align="center"><sub><a href="https://www.kaggle.com/huseyincenik">full Kaggle profile →</a></sub></p>
 
