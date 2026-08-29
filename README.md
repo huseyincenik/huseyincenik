@@ -110,6 +110,41 @@
 <tr><td valign="top" width="33%"><a href="https://ner-with-gliner.streamlit.app/"><img src="./assets/stack/spacy.svg" width="34" align="top" alt=""/>&nbsp;<b>NER with GLiNER</b></a><br/><sub>Extract any entity from unstructured text — a GLiNER-powered NER app.</sub><br/><sub><a href="https://ner-with-gliner.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_ner_with_gliner">Code</a></sub></td><td valign="top" width="33%"><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/"><img src="./assets/stack/langchain.svg" width="34" align="top" alt=""/>&nbsp;<b>Chat with your PDFs</b></a><br/><sub>Conversational Q&amp;A over uploaded PDFs with Gemini + OpenAI via LangChain.</sub><br/><sub><a href="https://chat-with-multiple-pdfs-langchain.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/streamlit_langchain">Code</a></sub></td><td valign="top" width="33%"><a href="https://auto-price-deployment.streamlit.app/"><img src="./assets/stack/scikitlearn.svg" width="34" align="top" alt=""/>&nbsp;<b>Auto Analytics</b></a><br/><sub>Car-price estimation with Linear / Ridge / Lasso, Random Forest and XGBoost.</sub><br/><sub><a href="https://auto-price-deployment.streamlit.app/">▶ Live app</a> &nbsp;·&nbsp; <a href="https://github.com/huseyincenik/auto_analytics_advanced_estimation_and_deployment">Code</a></sub></td></tr>
 </table>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=huseyincenik&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=huseyincenik&theme=slateorange&hide_border=true" />
+</p>
+<p align="center">
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincenik&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=huseyincenik&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img alt="Top contributed repos" src="https://github-contributor-stats.vercel.app/api?username=huseyincenik&limit=5&theme=monokai&combine_all_yearly_contributions=true" />
+</p>
+
+## 📌 Kaggle
+
+<p align="center">
+  <a href="https://www.kaggle.com/huseyincenik/competitions"><img alt="Kaggle Competitions" src="./kaggle-plates/Competitions/white.svg" /></a>
+  <a href="https://www.kaggle.com/huseyincenik/datasets"><img alt="Kaggle Datasets" src="./kaggle-plates/Datasets/white.svg" /></a>
+  <a href="https://www.kaggle.com/huseyincenik/code"><img alt="Kaggle Notebooks" src="./kaggle-plates/Notebooks/white.svg" /></a>
+  <a href="https://www.kaggle.com/huseyincenik/discussion"><img alt="Kaggle Discussions" src="./kaggle-plates/Discussions/white.svg" /></a>
+</p>
+
+---
+
 <p align="center">
   <sub><a href="https://github.com/huseyincenik">@huseyincenik</a> · <a href="https://linkedin.com/in/huseyincenik">LinkedIn</a> · <a href="https://public.tableau.com/app/profile/huseyincenik">Tableau</a> · <a href="https://www.kaggle.com/huseyincenik">Kaggle</a></sub><br/>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=huseyincenik&color=orange&label=Profile%20views" />
